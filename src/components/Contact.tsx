@@ -36,7 +36,7 @@ const Contact = (props: Props) => {
       </Text>
       <Text
         color={"$"}
-        p
+        span
         css={{ letterSpacing: "$normal", opacity: 0.8 }}
       >
         {`Follow me on`}

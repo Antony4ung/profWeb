@@ -52,7 +52,7 @@ const About = (props: Props) => {
             </Text>
             <Text
               color={"$"}
-              p
+              
               css={{ mt: "$1", letterSpacing: "$normal", opacity: 0.8 }}
             >
               {`I'm a Front-End Developer from Myanmar. I am freelancer , CS student and football lover. I love creating mobile and web UI. I also love working with backend framework such as Node.js.`}

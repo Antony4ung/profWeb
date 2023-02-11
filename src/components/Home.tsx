@@ -25,7 +25,7 @@ const Home = (props: Props) => {
             </Text>
             <Text
               color={"$"}
-              p
+              span
               css={{ mt: "$1", letterSpacing: "$wide", opacity: 0.8 }}
             >
               {`I'am Aung Myat Thu, a MERN stack web developer from Myawaddy, Kayin State, Myanmar. I am also a CS student currently studying in Yangon. `}
