@@ -27,6 +27,7 @@ export default function Header() {
   const { setTheme } = useNextTheme();
   const { isDark, type,theme } = useTheme();
 
+  
   return (
     <Layout>
       <Navbar disableShadow shouldHideOnScroll isBordered variant="floating">
