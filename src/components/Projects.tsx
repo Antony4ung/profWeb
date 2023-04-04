@@ -41,6 +41,13 @@ const proArr = [
     imageUrl: "crypto.png",
     des:"This is a crypto checker website which is used Reactjs and coingecko api.",
   },
+  {
+    demoUrl: "https://sportwear-frontend.vercel.app/",
+    sourceLink: "https://github.com/Antony4ung/sportwearFrontend",
+    name: "Aung Sport wear",
+    imageUrl: "shop.png",
+    des:"This is an mini ecommerce website.",
+  },
 ];
 
 const Projects = (props: Props) => {
