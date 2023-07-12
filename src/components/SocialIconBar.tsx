@@ -21,7 +21,7 @@ const listArr = [
         icon:<MdOutlineMailOutline size={24}/>
     },
     {
-        href:"https://www.instagram.com/antony_aung2/",
+        href:"https://www.instagram.com/aung_77890/",
         icon:<FaInstagram size={24}/>
     },
 ]
